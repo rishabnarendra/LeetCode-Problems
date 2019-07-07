@@ -14,6 +14,9 @@ Input: [1,null,2,3]
 
 Output: [1,3,2]
 
+
+
+
 Binary Tree Level Order Traversal
 Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
 
@@ -30,6 +33,9 @@ return its level order traversal as:
   [15,7]
 ]
 
+
+
+
 Binary Tree Postorder Traversal 
 Given a binary tree, return the postorder traversal of its nodes' values.
 
@@ -42,6 +48,9 @@ Input: [1,null,2,3]
 
 Output: [3,2,1]
 
+
+
+
 Binary Tree Preorder Traversal
 Given a binary tree, return the preorder traversal of its nodes' values.
 
@@ -53,6 +62,20 @@ Input: [1,null,2,3]
    3
 
 Output: [1,2,3]
+
+
+
+
+Contains Duplicate 
+Given an array of integers, find if the array contains any duplicates.
+
+Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
+Input: [1,2,3,1]
+Output: true
+
+
+
 
 Remove Element
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
@@ -67,17 +90,26 @@ Your function should return length = 2, with the first two elements of nums bein
 
 It doesn't matter what you leave beyond the returned length.
 
+
+
+
 Reverse Integer
 Given a 32-bit signed integer, reverse digits of an integer.
 
 Input: 123
 Output: 321
 
+
+
+
 Roman To Integer
 Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
 
 Input: "III"
 Output: 3
+
+
+
 
 Search Element Position
 Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
@@ -87,6 +119,9 @@ You may assume no duplicates in the array.
 Input: [1,3,5,6], 5
 Output: 2
 
+
+
+
 Two Sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -95,6 +130,9 @@ Given nums = [2, 7, 11, 15], target = 9,
 
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
+
+
+
 
 Valid Parentheses
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
