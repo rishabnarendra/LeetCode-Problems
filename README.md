@@ -85,6 +85,15 @@ Output: true
 
 
 
+Contains Duplicate 3
+Given an array of integers, find out whether there are two distinct indices i and j in the array such that the absolute difference between nums[i] and nums[j] is at most t and the absolute difference between i and j is at most k.
+
+Input: nums = [1,2,3,1], k = 3, t = 0
+Output: true
+
+
+
+
 Remove Element
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
