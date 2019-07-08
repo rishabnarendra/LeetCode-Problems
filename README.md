@@ -151,6 +151,15 @@ return [0, 1].
 
 
 
+Valid Anagram 
+Given two strings s and t , write a function to determine if t is an anagram of s.
+
+Input: s = "anagram", t = "nagaram"
+Output: true
+
+
+
+
 Valid Parentheses
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
