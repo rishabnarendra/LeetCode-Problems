@@ -105,6 +105,17 @@ Output: true
 
 
 
+Longest Common Prefix 
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+Input: ["flower","flow","flight"]
+Output: "fl"
+
+
+
+
 Remove Element
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
