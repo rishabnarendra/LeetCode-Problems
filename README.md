@@ -127,6 +127,15 @@ Output: "fl"
 
 
 
+Palindrome Number
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+Input: 121
+Output: true
+
+
+
+
 Remove Duplicates From Sorted Array
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
