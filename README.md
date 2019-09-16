@@ -158,6 +158,16 @@ Output: true
 
 
 
+Power of Two
+Given an integer, write a function to determine if it is a power of two.
+
+Input: 1
+Output: true 
+Explanation: 20 = 1
+
+
+
+
 Remove Duplicates From Sorted Array
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
