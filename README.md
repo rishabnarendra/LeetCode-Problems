@@ -140,6 +140,19 @@ Output: "fl"
 
 
 
+Median Of Two Sorted Arrays
+There are two sorted arrays nums1 and nums2 of size m and n respectively.
+Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
+You may assume nums1 and nums2 cannot be both empty.
+
+nums1 = [1, 3]
+nums2 = [2]
+
+The median is 2.0
+
+
+
+
 Merge Two Sorted Lists
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
 
